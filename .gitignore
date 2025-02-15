@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+node_modules
+/.pnp
+.pnp.*
+**/.DS_Store
+config
+*.log
