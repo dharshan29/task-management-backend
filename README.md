@@ -6,7 +6,7 @@ This is the backend service for the **Task Management** application, built using
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-repo/task-management-backend.git
+git clone https://github.com/dharshan29/task-management-backend.git
 cd task-management-backend
 ```
 
